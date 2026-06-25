@@ -19,7 +19,7 @@ I am a passionate developer from India who loves building software that solves r
 - 🌱 **I’m currently learning:** Machine Learning patterns and Advanced System Design.
 - 👯 **I’m looking to collaborate on:** Open Source projects related to JavaScript libraries or Education Tech.
 - 💬 **Ask me about:** React, Node.js, Python, and Deployments.
-- 📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)
+- 📫 **How to reach me:** [your-email@example.com](mailto:62sharadpandey@gmail.com)
 - ⚡ **Fun fact:** I can debug code faster than I can finish my morning coffee! ☕
 
 ---
